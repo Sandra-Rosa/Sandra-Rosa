@@ -14,4 +14,4 @@
 
 ⚡ Fun fact: A coder who is really fond of printed books
 
-(https://github-readme-stats.vercel.app/api/top-langs/?username=sandra-rosa)
+<p><img align="center" src="/https://github-readme-stats.vercel.app/api/top-langs?username=sandra-rosa&show icons=true&locale=en&layout=compact" />
