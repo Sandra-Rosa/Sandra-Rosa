@@ -8,8 +8,12 @@
 
 🌱 I’m currently learning programming languages
 
-📫 How to reach me: [instagram](https://www.instagram.com/__zet_wounded_beast/)
+📫 How to reach me: [instagram](https://www.instagram.com/__zet_wounded_beast/),
                     [mail](sandraantony2002@gmail.com)
 😄 Pronouns: Her
 
 ⚡ Fun fact: A coder who is really fond of printed books
+
+https://github-readme-stats.vercel.app/api/top-langs/?username=sandra-rosa
+
+ttps://github-readme-stats.vercel.app/api?username=sandra-rosa&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
