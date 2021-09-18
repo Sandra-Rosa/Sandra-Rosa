@@ -13,3 +13,5 @@
 😄 Pronouns: Her
 
 ⚡ Fun fact: A coder who is really fond of printed books
+
+(https://github-readme-stats.vercel.app/api/top-langs/?username=sandra-rosa)
