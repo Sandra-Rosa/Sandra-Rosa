@@ -2,7 +2,7 @@
 [README.md](https://github.com/Sandra-Rosa/Sandra-Rosa/files/7190038/README.md)
 # Hi there....
 ## I am Sandra here...
-### I am a Student and an Entrepreneur!###
+### I am a Student and an Entrepreneur!
 **I m a learning programmer**
 🔭 I’m currently studing at Jyothi Engineering Collage.
 
@@ -14,5 +14,8 @@
 
 ⚡ Fun fact: A coder who is really fond of printed books
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandra-rosa&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandra-rosa&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandra-rosa)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sandra-rosa)](https://github.com/anuraghazra/github-readme-stats)
