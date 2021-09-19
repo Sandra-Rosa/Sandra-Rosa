@@ -1,9 +1,9 @@
 [README.md](https://github.com/Sandra-Rosa/Sandra-Rosa/files/7190029/README.md)
 [README.md](https://github.com/Sandra-Rosa/Sandra-Rosa/files/7190038/README.md)
 # Hi there....
-## I am Sandra here...
-### I am a Student and an Entrepreneur!
-**I m a learning programmer**
+## Sandra here...
+### I m a Student and an Entrepreneur!
+**Little programmer**
 🔭 I’m currently studing at Jyothi Engineering Collage.
 
 🌱 I’m currently learning programming languages
