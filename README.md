@@ -4,6 +4,7 @@
 ## Sandra here...
 ### I m a Student and an Entrepreneur!
 **Little programmer**
+
 🔭 I’m currently studing at Jyothi Engineering Collage.
 
 🌱 I’m currently learning programming languages
@@ -12,14 +13,13 @@
                     [mail](sandraantony2002@gmail.com)
 😄 Pronouns: Her
 
-⚡ Fun fact: A coder who is really fond of printed books
+⚡ Fun fact: A coder who is really fond of printed books.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandra-rosa&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandra-rosa)](https://github.com/anuraghazra/github-readme-stats)
 
 
-</a>]\
 
 
 
