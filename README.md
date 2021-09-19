@@ -14,4 +14,5 @@
 
 ⚡ Fun fact: A coder who is really fond of printed books
 
-<p><img align="center" src="api.svg" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandra-rosa)](https://github.com/anuraghazra/github-readme-stats)
+
