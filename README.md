@@ -19,7 +19,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandra-rosa)](https://github.com/anuraghazra/github-readme-stats)
 
-[![gif](https://github.com/Sandra-Rosa/Sandra-Rosa/issues/1#issue-1006618163)
+![gif](https://github.com/Sandra-Rosa/Sandra-Rosa/issues/1#issue-1006618163)
 
 
 
