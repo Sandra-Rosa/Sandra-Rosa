@@ -5,15 +5,15 @@
 ### I m a Student and an Entrepreneur!
 **Little programmer**
 
-🔭 I’m currently studing at Jyothi Engineering Collage.
+***🔭 I’m currently studing at Jyothi Engineering Collage.
 
-🌱 I’m currently learning programming languages
+***🌱 I’m currently learning programming languages
 
-📫 How to reach me: [instagram](https://www.instagram.com/__zet_wounded_beast/),
+***📫 How to reach me: [instagram](https://www.instagram.com/__zet_wounded_beast/),
                     [mail](sandraantony2002@gmail.com)
 😄 Pronouns: Her
 
-⚡ Fun fact: A coder who is really fond of printed books.
+***⚡ Fun fact: A coder who is really fond of printed books.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandra-rosa&show_icons=true&theme=tokyonight)
 
