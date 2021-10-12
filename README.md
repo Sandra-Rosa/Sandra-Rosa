@@ -17,7 +17,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandra-rosa&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandra-rosa)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandra-rosa&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ![gif](https://github.com/Sandra-Rosa/Sandra-Rosa/blob/5422e175748cd7b6eb39f267300f9da821849788/91431ba4a19ec061655362177b0c95fe.gif)
 
