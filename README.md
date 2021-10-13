@@ -19,6 +19,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandra-rosa&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sandra-rosa&show_icons=true&theme=tokyonight)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=sandra-rosa&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandra-rosa&label=Profile%20views&color=0e75b6&style=flat" alt="sandra-rosa" /> </p>
 
