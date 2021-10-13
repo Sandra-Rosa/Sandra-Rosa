@@ -19,7 +19,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandra-rosa&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![gif](https://github.com/Sandra-Rosa/Sandra-Rosa/blob/5422e175748cd7b6eb39f267300f9da821849788/91431ba4a19ec061655362177b0c95fe.gif)
+![gif](https://github.com/Sandra-Rosa/Sandra-Rosa/blob/main/0660efe82fa3da42ed56eef013171835.gif?raw=true)
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandra-rosa&label=Profile%20views&color=0e75b6&style=flat" alt="sandra-rosa" /> </p>
