@@ -36,5 +36,9 @@
 <p><a href="https://www.buymeacoffee.com/sandra rosa"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sandra rosa" /></a></p><br><br>
 
 
+<br><br>
+<p align="center">
+   <img src="https://github.com/Sandra-Rosa/Sandra-Rosa/blob/main/0660efe82fa3da42ed56eef013171835.gif?raw=true" width="600" height="600" />
 
-![gif](https://github.com/Sandra-Rosa/Sandra-Rosa/blob/main/0660efe82fa3da42ed56eef013171835.gif?raw=true)
+
+</p>
