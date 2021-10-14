@@ -42,7 +42,7 @@
 
 <br><br>
 <p align="center">
-   <img src="https://github.com/Sandra-Rosa/Sandra-Rosa/blob/main/0660efe82fa3da42ed56eef013171835.gif?raw=true" width="600" height="400" />
+   <img src="https://github.com/Sandra-Rosa/Sandra-Rosa/blob/main/0660efe82fa3da42ed56eef013171835.gif?raw=true"  />
 
 
 </p>
